@@ -41,7 +41,8 @@ while True:    #setup
       GPIO.output(23, GPIO.LOW)
       GPIO.cleanup()
       
-    def   
+    def pivot_left(x):
+      
     
     #program
     
